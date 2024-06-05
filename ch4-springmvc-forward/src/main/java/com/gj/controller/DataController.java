@@ -19,7 +19,7 @@ public class DataController {
     public void ShowDC(HttpServletResponse response){
         try {
             response.getWriter().println("uuuuu");
-            response.getWriter().println("gg");
+            response.getWriter().println("王");
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
@@ -32,7 +32,7 @@ public class DataController {
 
             User user = new User();
             user.setId(1213);
-            user.setName("gg");
+            user.setName("王");
             user.setPwd("dgajjshaf");
 
             String s = om.writeValueAsString(user);
@@ -50,8 +50,7 @@ public class DataController {
     @ResponseBody
     public User getUser(){
         User user = new User();
-        user.setName("gg");
-
+        user.setName("王");
         return user;
     }
 

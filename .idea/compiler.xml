@@ -8,9 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ch2-springmvc" />
+        <module name="ch4-springmvc-forward" />
+        <module name="ch6-spring-tx-copy" />
         <module name="ch3-sm" />
         <module name="ch1-springmvc-hellow" />
-        <module name="ch4-springmvc-forward" />
+        <module name="ch5-spring-tx (1)" />
+        <module name="ch5-spring-tx (2)" />
+        <module name="ch5-spring-tx" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

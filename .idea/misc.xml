@@ -16,6 +16,8 @@
         <option value="$PROJECT_DIR$/ch3-sm/pom.xml" />
         <option value="$PROJECT_DIR$/ch4-springmvc-forword/pom.xml" />
         <option value="$PROJECT_DIR$/ch4-springmvc-forward/pom.xml" />
+        <option value="$PROJECT_DIR$/ch5-spring-tx/pom.xml" />
+        <option value="$PROJECT_DIR$/ch6-spring-tx-copy/pom.xml" />
       </list>
     </option>
   </component>
