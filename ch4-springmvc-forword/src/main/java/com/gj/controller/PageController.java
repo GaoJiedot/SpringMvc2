@@ -34,6 +34,7 @@ public class PageController {
         user.setName("TTT");
         user.setPwd("qweasda");
         modelAndView.addObject( "user",user);
+        modelAndView.setViewName("maina.jsp");
         return modelAndView;
     }
 }
