@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/ch1-springmvc-hellow" />
     <file type="web" url="file://$PROJECT_DIR$/ch2-springmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/ch4-springmvc-forword" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -12,6 +13,7 @@
         <option value="$PROJECT_DIR$/ch1-springmvc-hellow/pom.xml" />
         <option value="$PROJECT_DIR$/ch2-springmvc/pom.xml" />
         <option value="$PROJECT_DIR$/ch3-sm/pom.xml" />
+        <option value="$PROJECT_DIR$/ch4-springmvc-forword/pom.xml" />
       </list>
     </option>
   </component>

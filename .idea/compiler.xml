@@ -10,9 +10,11 @@
         <module name="ch2-springmvc" />
         <module name="ch3-sm" />
         <module name="ch1-springmvc-hellow" />
+        <module name="ch4-springmvc-forword" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ch4-sm" target="1.8" />
       <module name="gj-spring-ch14-sm" target="1.8" />
       <module name="untitled" target="1.8" />
     </bytecodeTargetLevel>
