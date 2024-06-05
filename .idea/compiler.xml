@@ -10,11 +10,12 @@
         <module name="ch2-springmvc" />
         <module name="ch3-sm" />
         <module name="ch1-springmvc-hellow" />
-        <module name="ch4-springmvc-forword" />
+        <module name="ch4-springmvc-forward" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ch4-sm" target="1.8" />
+      <module name="ch4-springmvc-forword" target="1.7" />
       <module name="gj-spring-ch14-sm" target="1.8" />
       <module name="untitled" target="1.8" />
     </bytecodeTargetLevel>
