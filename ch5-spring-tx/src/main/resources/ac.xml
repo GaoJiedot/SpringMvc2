@@ -21,7 +21,6 @@
         <property name="sqlSessionFactoryBeanName" value="factory"/>
         <!--指定基本包，dao接口所在的包名-->
         <property name="basePackage" value="com.gj.dao"/>
-
     </bean>
     <!--声明service-->
     <bean id="buyService" class="com.gj.service.Impl.BuyGoodsServiceImpl">

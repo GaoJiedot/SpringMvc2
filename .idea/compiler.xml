@@ -14,6 +14,7 @@
         <module name="ch1-springmvc-hellow" />
         <module name="ch5-spring-tx (1)" />
         <module name="ch5-spring-tx (2)" />
+        <module name="ch7-ssm" />
         <module name="ch5-spring-tx" />
       </profile>
     </annotationProcessing>
